@@ -1,0 +1,6 @@
+{
+    "workbench.settings.showAISearchToggle": false,
+    "chat.disableAIFeatures": true,
+    "telemetry.feedback.enabled": false,
+    "telemetry.editStats.enabled": false
+}
