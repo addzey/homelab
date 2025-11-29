@@ -1,2 +1,2 @@
 # homelab
-My homelab repo - service configurations and IaC
+Adam's homelab repo with service configurations and IaC
